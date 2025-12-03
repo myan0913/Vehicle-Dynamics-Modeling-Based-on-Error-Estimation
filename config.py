@@ -1,5 +1,3 @@
-# config.py
-
 import os
 
 # 路径配置
