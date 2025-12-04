@@ -2,7 +2,7 @@
 # Hybrid Physics-Informed Vehicle Dynamics Prediction
 # 混合物理感知车辆动力学预测系统
 
-本项目实现了一个先进的混合驱动（Hybrid Data-driven & Physics-based）车辆动力学预测模型，它结合了传统的车辆二自由度动力学方程与现代深度学习架构（CNN-LSTM），旨在利用驾驶员输入和车辆状态精确预测车辆的动力学响应（纵向、横向及横摆加速度）。
+本项目实现了一个先进的混合驱动（Hybrid Data-driven & Physics-based）车辆动力学预测模型，它结合了传统的车辆二自由度动力学方程与现代深度学习架构（CNN-LSTM），旨在利用驾驶员输入和车辆状态精确预测车辆的动力学响应（纵向、横向以及横摆加速度）。
 
 ## 🌟 项目核心亮点
 
