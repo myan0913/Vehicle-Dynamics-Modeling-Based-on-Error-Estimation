@@ -7,7 +7,6 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
-# 假设您的 config.py 文件在同一目录下
 from config import *
 import joblib
 import matplotlib.pyplot as plt
