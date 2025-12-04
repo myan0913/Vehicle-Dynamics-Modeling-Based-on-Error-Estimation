@@ -219,7 +219,7 @@ class HybridVehicleDynamicsModel(nn.Module):
 
 
 # ====================================
-# 工具函数 (无需修改)
+# 工具函数
 # ====================================
 def set_matplotlib_chinese():
     try:
