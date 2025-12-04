@@ -271,7 +271,7 @@ def evaluate_model(y_true, y_pred, feature_names):
 
 
 # ====================================
-# 数据处理函数 (无需修改)
+# 数据处理函数
 # ====================================
 def load_data():
     X_list, y_list = [], []
