@@ -6,7 +6,7 @@ MODEL_DIR = "model"
 SCALERS_DIR = "scalers"
 RESULTS_DIR = "results"
 
-# 输入文件 (假设单位: 速度km/h, 角速度deg/s, 油门0-1, 刹车MPa, 方向盘转角deg)
+# 输入文件(假设单位: 速度km/h, 角速度deg/s, 油门0-1, 刹车MPa, 方向盘转角deg)
 INPUT_FILES = {
     "longitudinal_speed": "Vx.txt",
     "lateral_speed": "Vy.txt",
