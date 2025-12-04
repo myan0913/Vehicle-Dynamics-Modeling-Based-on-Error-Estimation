@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 
 
-# ===================================
+# ==================================
 # 物理模型 (应用小角度假设)
 # ===================================
 class VehicleDynamicsModel:
