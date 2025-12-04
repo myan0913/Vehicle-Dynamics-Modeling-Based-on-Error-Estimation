@@ -50,8 +50,6 @@ class VehicleDynamicsModel:
 # 深度学习模型 (适配新物理模型)
 # ====================================
 
-### <<< 修改开始 >>> ###
-# 原有的 ParameterIdentificationNetwork 已被下面更复杂的 SequentialParameterNetwork 替代
 
 class SequentialParameterNetwork(nn.Module):
     """
