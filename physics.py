@@ -167,7 +167,7 @@ def plot_prediction_comparison(y_true, y_pred, feature_names=None, save_path=Non
 def plot_detailed_comparison(y_true, y_pred, feature_names=None, save_path=None, max_samples=10000):
     """
     绘制更详细的预测结果与真实值的对比图。
-    【已修改】横轴改为时间(s)，纵轴标签更新为SI单位，并进行了单位转换。
+    【修改】横轴改为时间(s)，纵轴标签更新为SI单位，并进行了单位转换。
     """
     set_matplotlib_english()
 
