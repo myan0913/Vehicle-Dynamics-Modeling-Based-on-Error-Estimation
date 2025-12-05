@@ -1,7 +1,7 @@
 AVz-横摆角速度
 AAZ-横摆角加速度
 Vx-纵向速度
-Vy-
+Vy-侧向速度
 Throttle-油门开度
 Pbk_Con-制动位置
 Steer_SW-方向盘转向角
