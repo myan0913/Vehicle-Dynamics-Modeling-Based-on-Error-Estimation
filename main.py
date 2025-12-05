@@ -300,7 +300,7 @@ def create_sequences(X, y, time_delay):
     return np.array(X_seq), np.array(y_seq)
 
 
-# ===================================
+# ==================================
 # 主函数
 # ===================================
 def main():
